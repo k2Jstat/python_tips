@@ -3,7 +3,7 @@ def check_valiables(variable_size_threshold = 0,list_dir = dir()):
     input   : none
     output  : variables
               
-    example : dist_by_cat(variable_size_threshold = 10000)  
+    example : check_variables(variable_size_threshold = 10000)  
      """
     import sys
     
